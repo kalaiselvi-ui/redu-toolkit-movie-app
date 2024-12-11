@@ -1,16 +1,14 @@
 {
   "files": {
     "main.css": "/redu-toolkit-movie-app.git/static/css/main.25143eb4.css",
-    "main.js": "/redu-toolkit-movie-app.git/static/js/main.e4d86587.js",
-    "static/js/488.db8ce56d.chunk.js": "/redu-toolkit-movie-app.git/static/js/488.db8ce56d.chunk.js",
+    "main.js": "/redu-toolkit-movie-app.git/static/js/main.e7fc9efa.js",
     "static/media/user.png": "/redu-toolkit-movie-app.git/static/media/user.aca1ec5f69e6da1aa254.png",
     "index.html": "/redu-toolkit-movie-app.git/index.html",
     "main.25143eb4.css.map": "/redu-toolkit-movie-app.git/static/css/main.25143eb4.css.map",
-    "main.e4d86587.js.map": "/redu-toolkit-movie-app.git/static/js/main.e4d86587.js.map",
-    "488.db8ce56d.chunk.js.map": "/redu-toolkit-movie-app.git/static/js/488.db8ce56d.chunk.js.map"
+    "main.e7fc9efa.js.map": "/redu-toolkit-movie-app.git/static/js/main.e7fc9efa.js.map"
   },
   "entrypoints": [
     "static/css/main.25143eb4.css",
-    "static/js/main.e4d86587.js"
+    "static/js/main.e7fc9efa.js"
   ]
 }
