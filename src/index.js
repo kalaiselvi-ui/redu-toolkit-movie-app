@@ -8,7 +8,7 @@ import "./index.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <BrowserRouter basename="/redu-toolkit-movie-app">
+  <BrowserRouter>
     <React.StrictMode>
       <Provider store={store}>
         <App />
